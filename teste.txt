@@ -1,7 +1,0 @@
-- desenvolve [DEV]
-- manda para o code review [DEV]
-- revisar e avisa que passou [REVIEWER]
-- sobre para staging [DEV]
-- Alguem testa e aprova [PO]
-- Fecha a feature [DEV]
-- Cria versão e sobe para produção [DEPLOYER]
